@@ -1,1 +1,1 @@
-# kubernetes1.8
+pull kebernetes lastest images on docker hub
