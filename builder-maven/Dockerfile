@@ -1,3 +1,3 @@
 #please change the version
-FROM gcr.io/jenkinsxio/builder-maven:0.1.464
+FROM gcr.io/jenkinsxio/builder-maven:latest
 MAINTAINER liyuan <liyuan@juntu.com>
