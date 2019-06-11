@@ -1,2 +1,2 @@
-FROM gcr.io/jenkinsxio/builder-jx:0.1.464
+FROM gcr.io/jenkinsxio/builder-jx:latest
 MAINTAINER liyuan <liyuan@juntu.com>
